@@ -41,6 +41,11 @@ body * {
   color: var(--text-color);
 }
 
+p{
+  margin-top: 20px;
+  text-align: center;
+}
+
 #container {
   /* border: 1px solid red; */
   width: 100%;
